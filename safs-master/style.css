@@ -124,7 +124,7 @@ img {
 }
 
 .bg-secondary {
-    background-color: #ffc900 !important;
+    background-color: #f7e08f !important;
 }
 
 button:focus {
@@ -243,7 +243,7 @@ button:focus {
 .section-title h2:before {
     left: auto;
     right: 50%;
-    background-color: #ffc900
+    background-color: #f7e08f
 }
 
 /*::::::::::::::::::::::::::::::::::::
@@ -281,14 +281,14 @@ button:focus {
 }
 
 .hero-content h2 {
-    color: #fff;
+    color: #3f3f3f;
     font-size: 90px;
     font-weight: 600;
     line-height: 1;
 }
 
 .hero-content h3 {
-    color: #fff;
+    color: #3f3f3f;
     font-size: 45px;
     margin-top: 20px;
 }
@@ -331,7 +331,7 @@ button:focus {
 }
 
 .single-featured-item-wrap:hover a {
-    color: #ffc900
+    color: #f7e08f
 }
 
 .single-featured-item-wrap:hover a:after {
@@ -355,7 +355,7 @@ button:focus {
     font-size: 60px;
     position: absolute;
     top: 0;
-    color: #ffc900;
+    color: #f7e08f;
     opacity: .5;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
 }
@@ -371,7 +371,7 @@ button:focus {
     position: relative;
     background-size: cover;
     background-position: center;
-    background-color: #ffc900; /* Bright background */
+    background-color: #f7e08f; /* Bright background */
 }
 
 .social-links {
@@ -398,7 +398,7 @@ button:focus {
 }
 
 .about-content h2 span {
-    color: #ffc900; /* Highlighting name */
+    color: #3f3f3f; /* Highlighting name */
     font-size: 1.2em; /* Increased font size */
 }
 
@@ -432,8 +432,8 @@ button:focus {
 }
 
 .skills-list li {
-    background-color: #ffc900; /* Skill item background */
-    color: #fff; /* Text color */
+    background-color: #f7e08f; /* Skill item background */
+    color: #3f3f3f; /* Text color */
     padding: 10px 20px; /* Padding around skill items */
     border-radius: 20px; /* Rounded corners */
     margin: 5px; /* Spacing between skill items */
@@ -511,7 +511,7 @@ button:focus {
 }
 
 .service-area:before {
-    background-color: #ffc900;
+    background-color: #f7e08f;
     position: absolute;
     content: '';
     width: 100%;
@@ -527,7 +527,7 @@ button:focus {
 .single-service {
     background-color: #fff;
     padding: 15px;
-    border: 1px solid #ffc900;
+    border: 1px solid #f7e08f;
     -webkit-transition: .3s;
     transition: .3s;
     margin-bottom: 30px;
@@ -565,7 +565,7 @@ button:focus {
 
 .service-icon {
     font-size: 50px;
-    color: #ffc900;
+    color: #f7e08f;
 }
 
 
@@ -593,7 +593,7 @@ button:focus {
 
 .single-why-me:hover .why-me-icon {
     background-color: #000; /* Dark background on hover */
-    color: #ffc900; /* Gold color for icons on hover */
+    color: #f7e08f; /* Gold color for icons on hover */
 }
 
 .why-me-icon {
@@ -607,7 +607,7 @@ button:focus {
     line-height: 1; /* Adjust line height */
     right: 0; /* Align to right */
     bottom: 0; /* Align to bottom */
-    background-color: #ffc900; /* Gold background */
+    background-color: #f7e08f; /* Gold background */
     transition: .3s; /* Smooth transition */
 }
 
@@ -665,8 +665,8 @@ p {
 .work-list ul li.filter.active,
 .work-list ul li:hover {
     color: #000;
-    background-color: #ffc900;
-    border-color: #ffc900;
+    background-color: #f7e08f;
+    border-color: #f7e08f;
 }
 
 .row.portfolio .col-lg-4 {
