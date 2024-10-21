@@ -273,7 +273,7 @@ button:focus {
 .hero-aria {
     position: relative;
     height: 100vh; /* Full height of the viewport */
-    background-color: #ffc900; /* Same background color as before */
+    background-color: #f7e08f; /* Same background color as before */
 }
 
 .hero-content {
